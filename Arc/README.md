@@ -1,50 +1,41 @@
-📦 Arc ArtCommerce (WordPress Project)
-📖 Project Overview
+# Arc ArtCommerce (WordPress Project)
 
-Arc ArtCommerce is a fully custom WordPress eCommerce website built on WooCommerce.
-The site is designed to showcase and sell art collections with a tailored shopping experience.
-Unlike theme-builder approaches, this project uses a hand-coded custom theme with WooCommerce template overrides for complete control of the storefront design.
+📖 **Project Overview**  
+Arc ArtCommerce is a fully custom WordPress eCommerce website built on WooCommerce.  
+It is designed to showcase and sell art collections with a tailored shopping experience.  
+Unlike builder-based themes, this project uses a hand-coded custom theme with overridden WooCommerce templates for full control of layout and functionality.
 
-✨ Features
+---
 
-🎨 Fully custom WordPress theme (no theme builders used)
+✨ **Features**  
+- 🎨 Fully custom WordPress theme (no page builders used)  
+- 🛒 Product catalog with categories and filters  
+- 💳 Shopping cart & secure checkout (WooCommerce backend)  
+- 📱 Responsive design for mobile, tablet, and desktop  
+- ⚡ Optimized performance with caching and image optimization  
+- 🔍 SEO best practices (clean permalinks, structured data, Yoast SEO integration)  
 
-🛒 Product catalog with categories and filters
+---
 
-💳 Shopping cart & secure checkout system (WooCommerce backend)
+🛠️ **Technologies Used**  
+- WordPress (CMS)  
+- WooCommerce  
+- PHP  
+- MySQL  
+- Custom WordPress Theme (with WooCommerce template overrides)  
 
-📱 Responsive design for mobile, tablet, and desktop
+---
 
-⚡ Optimized performance (minimal plugins, caching, image optimization)
+🔌 **Plugins Used**  
+- WooCommerce – Core commerce backend (products, orders, checkout)  
+- Yoast SEO – SEO optimization  
+- WP Super Cache – Caching for performance  
+*(Minimal plugins used — all design/layout handled in the custom theme)*  
 
-🔍 Built-in SEO practices (clean permalinks, schema-ready templates, Yoast integration)
+---
 
-🛠️ Technologies Used
-
-WordPress (CMS)
-
-WooCommerce (backend for products, cart, checkout)
-
-PHP, MySQL
-
-Custom WordPress Theme (template overrides for shop, single product, cart, checkout)
-
-🔌 Plugins Used
-
-WooCommerce – Commerce backend (products, orders, checkout)
-
-Yoast SEO – SEO optimization
-
-WP Super Cache – Performance optimization
-
-(All design/layout handled in the custom theme — no page builders used)
-
-🎨 Custom Code
-
-Full custom theme development (style.css, functions.php, template hierarchy)
-
-Overridden WooCommerce templates (shop, single-product, cart, checkout)
-
-Custom styling for product grid and cart/checkout flows
-
-Performance-focused CSS and JS (no bloat from theme builders)
+🎨 **Custom Code**  
+- Developed a fully custom theme (functions.php, style.css, template hierarchy)  
+- Overridden WooCommerce templates (shop, single-product, cart, checkout)  
+- Custom styling for product grid and checkout flow  
+- Lightweight CSS and JS for optimized performance  
