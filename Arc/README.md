@@ -26,7 +26,8 @@ Unlike builder-based themes, this project uses a hand-coded custom theme with ov
 ---
 
 🔌 **Plugins Used**  
-- WooCommerce – Core commerce backend (products, orders, checkout)  
+- WooCommerce – Core commerce backend (products, orders, checkout)
+- Stripe , PayPal 
 - Yoast SEO – SEO optimization   
 *(Minimal plugins used — all design/layout handled in the custom theme)*  
 
